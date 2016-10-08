@@ -1,0 +1,101 @@
+
+.secondpagevideo {
+	width: 100%;
+	height: auto;
+	position: fixed;
+	z-index: -1;
+	top: 0;
+	}
+ul.sidemenu {
+	list-style: none;
+	padding-left: 0;
+	
+	width: 20%;
+
+	
+}
+.sidemenu li {
+	font-size: 1.5em;
+	color: white;
+	margin-top: 2%;
+	background: #7f8c8d;
+	padding: 2%;
+	text-align: center;
+	border: 1px solid black;
+	box-shadow: 1px 2px 5px 2px black;
+	
+}
+.description2 {
+	
+	background: rgba(44, 62, 80,1.0);
+	padding: 2%;
+	font-size: 1.5em;
+	color: white;
+	width: 55%;
+	display: none;
+
+}
+.sidemenu li a {
+	color: white;
+}
+.logoimg {
+	width: 53%;
+	
+	padding: 2%;
+	
+}
+.logoimg img{
+	position: relative;
+	
+	width:100%;
+	height: 150px;
+	
+	
+}
+.logoimg h3 {
+	font-size: 3em;
+	text-transform: uppercase;
+	font-weight: bold;
+	color: white;
+	margin: 0;
+}
+.rhoneselectemb {
+	width: 100%;
+	text-align: center;
+	font-size: 2em;
+	font-weight: bold;
+	text-transform: uppercase;
+
+}
+.imagess {
+	display: none;
+}
+.imagess ul {
+	list-style-type: none;
+
+}
+.imagess ul li {
+	width: 33%;
+	display: inline-block;
+
+
+}
+.imagess ul li a h2 {
+	font-family: 'Arvo', serif;
+	font-weight: bold;
+	text-align: center;
+}
+.imagess ul li a img{
+	
+	width: 100%;
+	display: block;
+	height: 300px;
+	border-radius: 6%;
+	border: 5px solid grey;
+	box-shadow: 2px 3px 2px 3px #34495e;
+	
+		
+}
+.panel {
+	padding: 1%;
+}
